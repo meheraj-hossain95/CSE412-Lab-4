@@ -12,7 +12,8 @@ const int N = 2e5 + 10;
 const int mod = 1e9 + 7;
 
 void solve() {  
-  
+  cout << "hello\n";
+  cout << "me meheraj\n";
 }     
 
 int main() {
